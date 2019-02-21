@@ -47,8 +47,8 @@ public class IsPrime {
 			// Prints if user's number is not prime
 		}
 		if (userNumber > 0) {
-			System.out
-					.println("## " + userNumber + " is not prime. It is divisible by " + numPrime + " other numbers.");
+			System.out.println("## " + userNumber + " is not prime. 
+					   It is divisible by " + numPrime + " other numbers.");
 		}
 
 	}
